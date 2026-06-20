@@ -25,4 +25,4 @@ This project is an advanced Tableau dashboard built to analyze sales and custome
 - Professional dashboard layout for executive reporting
 
   
-https://github.com/Diyaachoudhary6/Tableau_Advance_Dashboard/blob/main/Sales%20Dashboard.png
+![Project Dashboard](https://github.com/Diyaachoudhary6/Tableau_Advance_Dashboard/blob/main/Sales%20Dashboard.png)
