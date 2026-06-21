@@ -1,4 +1,4 @@
-# Advanced Tableau Sales & Customer Dashboard
+# Sales & Customer Dashboard | Advance Tableau Project
 
 ## Project Description
 This project is an advanced Tableau dashboard built to analyze sales and customer performance. It provides a clear view of key business KPIs such as total sales, profit, quantity, total customers, orders, and customer-level insights. The dashboard helps identify top-performing customers, monthly trends, and product subcategory performance to support data-driven decision-making.
