@@ -26,3 +26,4 @@ This project is an advanced Tableau dashboard built to analyze sales and custome
 
   
 ![Project Dashboard](https://github.com/Diyaachoudhary6/Tableau_Advance_Dashboard/blob/main/Sales%20Dashboard.png)
+![Project Dashboard](https://github.com/Diyaachoudhary6/Tableau_Advance_Dashboard/blob/main/Customer%20Dashboard.png)
