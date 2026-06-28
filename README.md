@@ -1,33 +1,3 @@
-# Sales & Customer Dashboard | Advance Tableau Project
-
-## Project Description
-This project is an advanced Tableau dashboard built to analyze sales and customer performance. It provides a clear view of key business KPIs such as total sales, profit, quantity, total customers, orders, and customer-level insights. The dashboard helps identify top-performing customers, monthly trends, and product subcategory performance to support data-driven decision-making.
-
-## Tech Stack
-- Tableau
-- Data Visualization
-- Business Intelligence
-- Dashboard Design
-- Data Analysis
-
-## Data Source
-- Sales and customer transactional data used for dashboard analysis
-- Data prepared and visualized in Tableau Desktop
-
-## Features / Highlights
-- Sales Dashboard and Customer Dashboard in one project
-- KPI tracking for sales, profit, quantity, customers, and orders
-- Monthly trend analysis with comparison against previous year
-- Customer distribution analysis by number of orders
-- Top 10 customers by profit
-- Subcategory-wise sales and profit comparison
-- Interactive filters and drill-down visuals for better analysis
-- Professional dashboard layout for executive reporting
-
-  
-![Project Dashboard](https://github.com/Diyaachoudhary6/Tableau_Advance_Dashboard/blob/main/Sales%20Dashboard.png)
-![Project Dashboard](https://github.com/Diyaachoudhary6/Tableau_Advance_Dashboard/blob/main/Customer%20Dashboard.png)
-
 
 # 📊 Advanced Tableau Sales & Customer Dashboard
 
@@ -57,112 +27,33 @@ This dashboard addresses this challenge by transforming raw sales data into an i
 # 📁 Project Structure
 
 ```
-Advanced-Tableau-Sales-Customer-Dashboard/
+Advanced-Tableau-Dashboard/
 │
-├── README.md
-├── Sales & Customer Dashboard.twbx
-├── Dataset/
-│   └── Sample_Superstore.csv
-│
-├── Dashboard Images/
+├── Dashboard/
 │   ├── Sales Dashboard.png
 │   └── Customer Dashboard.png
+│ 
+├── Data/
+│   └── Datasets.zip
+│ 
+├── Report
+│     └── Sales & Customer Dashboard.twbx
 │
-└── Certificate/
-    └── Tableau Certificate.png
-```
+└──  README.md
 
-> **Note:** Replace the filenames with the actual names used in your GitHub repository.
-
+```.
 ---
 
-# 📈 Dashboard Features
+# 📊 Features / Highlights
 
-## 📊 Sales Dashboard
-
-The Sales Dashboard provides a complete overview of business performance through key metrics and trend analysis.
-
-### KPIs
-
-- Total Sales
-- Total Profit
-- Total Quantity Sold
-
-### Visualizations
-
-- Monthly Sales Trend
-- Monthly Profit Trend
-- Monthly Quantity Trend
-- Sales by Product Sub-Category
-- Profit by Product Sub-Category
-- Weekly Sales & Profit Trends
-
-### Insights
-
-- Compare current year performance with previous year
-- Identify profitable product categories
-- Detect low-performing products
-- Analyze seasonal sales trends
-- Monitor weekly sales fluctuations
-
----
-
-## 👥 Customer Dashboard
-
-The Customer Dashboard focuses on customer purchasing behavior and profitability.
-
-### KPIs
-
-- Total Customers
-- Sales per Customer
-- Total Orders
-
-### Visualizations
-
-- Monthly Customer Trends
-- Monthly Sales per Customer
-- Customer Distribution by Number of Orders
-- Top 10 Customers by Profit
-
-### Insights
-
-- Identify high-value customers
-- Analyze repeat purchase behavior
-- Monitor customer growth
-- Compare customer performance over time
-- Discover the most profitable customers
-
----
-
-# 🎛 Interactive Features
-
-- Dynamic Year Filter
-- Category Filter
-- Sub-Category Filter
-- Interactive Tooltips
-- Cross-Filtering
-- Dynamic KPI Cards
-- Responsive Dashboard Navigation
-
----
-
-# 📊 Key Performance Indicators
-
-### Sales Dashboard
-
-- Total Sales
-- Total Profit
-- Total Quantity
-- Monthly Sales Growth
-- Monthly Profit Growth
-
-### Customer Dashboard
-
-- Total Customers
-- Total Orders
-- Sales per Customer
-- Customer Profitability
-- Repeat Customer Analysis
+- Sales Dashboard and Customer Dashboard in one project
+- KPI tracking for sales, profit, quantity, customers, and orders
+- Monthly trend analysis with comparison against previous year
+- Customer distribution analysis by number of orders
+- Top 10 customers by profit
+- Subcategory-wise sales and profit comparison
+- Interactive filters and drill-down visuals for better analysis
+- Professional dashboard layout for executive reporting
 
 ---
 
@@ -181,32 +72,17 @@ This dashboard helps answer the following business questions:
 
 ---
 
-# 💼 Skills Demonstrated
-
-- Data Visualization
-- Dashboard Development
-- Business Intelligence
-- KPI Reporting
-- Sales Analytics
-- Customer Analytics
-- Trend Analysis
-- Data Storytelling
-- Tableau Dashboard Design
-- Interactive Reporting
-
----
-
 # 📷 Dashboard Preview
 
 ## Sales Dashboard
 
-*(Insert Sales Dashboard Screenshot)*
+![Project Dashboard](https://github.com/Diyaachoudhary6/Tableau_Advance_Dashboard/blob/main/Dashboard/Sales%20Dashboard.png)
 
 ---
 
 ## Customer Dashboard
 
-*(Insert Customer Dashboard Screenshot)*
+![Project Dashboard](https://github.com/Diyaachoudhary6/Tableau_Advance_Dashboard/blob/main/Dashboard/Customer%20Dashboard.png)
 
 ---
 
