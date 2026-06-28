@@ -40,8 +40,8 @@ Advanced-Tableau-Dashboard/
 │     └── Sales & Customer Dashboard.twbx
 │
 └──  README.md
+```
 
-```.
 ---
 
 # 📊 Features / Highlights
