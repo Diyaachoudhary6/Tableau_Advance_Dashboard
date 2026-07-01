@@ -92,16 +92,11 @@ This project demonstrates how Tableau can transform raw transactional data into 
 
 ---
 
-# 👨‍💻 Author
+# 👩‍💻 Author
 
 **Diyaa Choudhary**
 
-Aspiring Data Analyst
-
-**Skills:** Excel • SQL • Tableau • Power BI • Python
+Aspiring Business Risk Analyst | SQL | Advance Excel | Tableau | Python | Time Series Analysis
 
 ---
-## ⭐ If you found this project useful, consider giving it a Star!
-
-
-
+## If you found this project helpful, feel free to ⭐ the repository!
